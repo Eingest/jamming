@@ -28,6 +28,8 @@ class Track extends React.Component {
     this.props.onRemove(this.props.track);
   }
 
+
+
   render() {
     return (
       <div className="Track">
